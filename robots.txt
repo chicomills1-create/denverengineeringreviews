@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://denverengineeringreviews.com/sitemap.xml
